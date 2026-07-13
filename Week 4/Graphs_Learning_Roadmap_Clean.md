@@ -1,4 +1,4 @@
-# Graphs Learning Roadmap (CampusX + Code and Debug)
+# Graphs Learning Roadmap 
 
 ------------------------------------------------------------------------
 
